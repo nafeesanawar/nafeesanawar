@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nafeesanawar
-- 👀 I’m interested in all thing electronics.
+- 👀 I’m interested in all thing electronics, project management and engineering, leadership and sustainability.
 - 🌱 I’m currently learning embedded system programming and data anlysis skills. 
-- 💞️ I’m looking to collaborate on anything related to electronics.
+- 💞️ I’m looking to collaborate on anything related to electronics or project engineering and management.
 - 📫 Email me at: nafeesanawar2016@gmail.com
 
 <!---
