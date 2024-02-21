@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nafeesanawar
-- 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning python and java. 
-- 💞️ I’m looking to collaborate on software.
+- 👀 I’m interested in all thing electronics.
+- 🌱 I’m currently learning embedded system programming and data anlysis skills. 
+- 💞️ I’m looking to collaborate on anything related to electronics.
 - 📫 Email me at: nafeesanawar2016@gmail.com
 
 <!---
